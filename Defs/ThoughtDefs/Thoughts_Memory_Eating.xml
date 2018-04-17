@@ -1,0 +1,14 @@
+<Defs>
+	<ThoughtDef>
+		<defName>AteAntiDepressant</defName>
+		<durationDays>0.5</durationDays>
+		<stackLimit>1</stackLimit>
+		<stages>
+		  <li>
+			<label>took antidepressants</label>
+			<description>I feel calm</description>
+			<baseMoodEffect>5</baseMoodEffect>
+		  </li>
+		</stages>
+	</ThoughtDef>
+</Defs>
