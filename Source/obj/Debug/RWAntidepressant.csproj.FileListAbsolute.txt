@@ -1,0 +1,15 @@
+c:\users\jumpy\source\repos\RWAntidepressant\RWAntidepressant\bin\Debug\RWAntidepressant.dll
+c:\users\jumpy\source\repos\RWAntidepressant\RWAntidepressant\bin\Debug\RWAntidepressant.pdb
+c:\users\jumpy\source\repos\RWAntidepressant\RWAntidepressant\bin\Debug\0Harmony.dll
+c:\users\jumpy\source\repos\RWAntidepressant\RWAntidepressant\bin\Debug\Assembly-CSharp.dll
+c:\users\jumpy\source\repos\RWAntidepressant\RWAntidepressant\bin\Debug\UnityEngine.dll
+c:\users\jumpy\source\repos\RWAntidepressant\RWAntidepressant\bin\Debug\TextMeshPro-1.0.55.56.0b11.dll
+c:\users\jumpy\source\repos\RWAntidepressant\RWAntidepressant\bin\Debug\Assembly-CSharp-firstpass.dll
+c:\users\jumpy\source\repos\RWAntidepressant\RWAntidepressant\bin\Debug\NAudio.dll
+c:\users\jumpy\source\repos\RWAntidepressant\RWAntidepressant\bin\Debug\NVorbis.dll
+c:\users\jumpy\source\repos\RWAntidepressant\RWAntidepressant\bin\Debug\UnityEngine.UI.dll
+c:\users\jumpy\source\repos\RWAntidepressant\RWAntidepressant\obj\Debug\RWAntidepressant.csprojResolveAssemblyReference.cache
+c:\users\jumpy\source\repos\RWAntidepressant\RWAntidepressant\obj\Debug\RWAntidepressant.csproj.CoreCompileInputs.cache
+c:\users\jumpy\source\repos\RWAntidepressant\RWAntidepressant\obj\Debug\RWAntidepressant.csproj.CopyComplete
+c:\users\jumpy\source\repos\RWAntidepressant\RWAntidepressant\obj\Debug\RWAntidepressant.dll
+c:\users\jumpy\source\repos\RWAntidepressant\RWAntidepressant\obj\Debug\RWAntidepressant.pdb
